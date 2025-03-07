@@ -195,7 +195,7 @@ public class Kartenmanager_SuS extends Ereignisanwendung {
     }
 
     // ----------------------------------------------------------
-    // Ereignismethoden 1
+    // Ereignismethoden 
     // ----------------------------------------------------------
 
     public void Sort_Klick() {
