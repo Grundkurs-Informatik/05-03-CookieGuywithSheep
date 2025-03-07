@@ -50,7 +50,7 @@ public class Kartenmanager_SuS extends Ereignisanwendung {
         }
     }
 
-    // Unsere Liste<Karte> anstelle von int[][]
+    // Unsere Liste<Karte> anstelle von int[][] '
     private Liste<Karte> karten;
     private int kartenAnzahl = 52;  // "logische" Stapelgröße
 
